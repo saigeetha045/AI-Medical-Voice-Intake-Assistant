@@ -50,8 +50,21 @@ Watch the complete project demo here:
 
 ## 📷 Project Screenshots
 
-Screenshots will be added here.
+### VAPI Assistant
 
+![VAPI Assistant](vapi-assistant.png)
+
+---
+
+### n8n Workflow
+
+![n8n Workflow](n8n-workflow.png)
+
+---
+
+### Email Output
+
+![Email Output](email-output.png)
 ---
 
 ## 🚀 Future Enhancements
