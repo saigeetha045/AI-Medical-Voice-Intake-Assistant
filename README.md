@@ -45,8 +45,7 @@ The system uses VAPI for voice interaction, n8n for workflow automation, Groq LL
 
 Watch the complete project demo here:
 
-**Demo Video:** *(Paste your Google Drive video link here after saving this README.)*
-
+**Demo Video:** https://drive.google.com/file/d/1N2nGjwCeUf6A9DNCWJXvoQgXQdsh0fGE/view?usp=sharing
 ---
 
 ## 📷 Project Screenshots
